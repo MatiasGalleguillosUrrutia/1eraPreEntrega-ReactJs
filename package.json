@@ -1,6 +1,7 @@
 {
   "name": "1erentrega-reactjs",
   "private": true,
+  "homepage": "https://github.com/MatiasGalleguillosUrrutia/PreEntrega1-Galleguillos",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
